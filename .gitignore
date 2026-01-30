@@ -1,0 +1,11 @@
+# Python
+
+# Virtual environments
+
+# VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# Obsidian
+.obsidian/
