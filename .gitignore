@@ -1,11 +1,18 @@
 # Python
+__pycache__/
 
 # Virtual environments
+.venv/
 
-# VSCode
+# IDE
 .vscode/
-*.code-workspace
-.history/
-
-# Obsidian
 .obsidian/
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# PID
+*.pid
